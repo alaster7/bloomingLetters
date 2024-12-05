@@ -4,7 +4,7 @@ title: Write Review
 include_in_header: true
 ---
 
-#If you write a review, thank you!
+# If you write a review, thank you!
 
 Every review is precious to us. Please do let us know what you like about the app and how we can make it better.
 
