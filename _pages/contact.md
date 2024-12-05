@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Contact
+title: Write Review
 include_in_header: true
 ---
 
-Write a [review](https://apps.apple.com/us/app/id6504161085?action=write-review)
+Every review is precious to us. Please do let us know what you like about the app and how we can make it better.
+This link will take you to our page on the apple App Store: [review](https://apps.apple.com/us/app/id6504161085?action=write-review)
 
