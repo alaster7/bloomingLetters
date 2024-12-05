@@ -149,4 +149,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 - By email: <bogglebox.feedback@gmail.com>
-- By visiting this page on our website: [https://bloominglettersapp.wordpress.com/contact-us/](https://boggleboxhome.wordpress.com/contact-us/)emming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+
